@@ -1,8 +1,9 @@
 # Jarek Krzysztofik, Data Analyst
 
 **Main technologies:** Excel, VBA, Power BI, SQL, Python
+**I am also familiar with:** Git Bash, Bitbucket, Visual Studio Code, DBeaver, Snowflake, MS SQL Server, Sharepoint
 
-## My education and work experience
+## Education and work experience
 My strength lies in well-rounded education, combining technical and soft skills. I graduated high school with an advanced mathematics profile, earned a master's degree in corporate management, a bachelor's degree in philosophy, and further expanded my education with certificates and postgraduate studies in financial accounting, data analysis and visualization, programming, and data science.
 
 Having familiarity working in an international setting and engaging with business clients, I have actively participated in the analysis of companies' market dynamics, financial reports, internal statistical data concerning aspects like team and process efficiency, as well as product quality. At present, my focus lies in working with extensive datasets derived from the insurance industry.
@@ -18,8 +19,8 @@ Currently I work as a professional data analyst, primarily focusing on technical
 - [University of Colorado Boulder, VBA Course Final Projects](https://github.com/jarsonX/vba_uoc)
 - [University of Economics in Katowice, Machine Learning Projects](https://github.com/jarsonX/ml_university_project)
 
-Interested in more? Here you can find more example of data analysis, data wrangling and automatisation using Python:
+Interested in more? Below you can find more examples of data analysis, data wrangling and automatisation using Python:
 - [Various Python projects](https://github.com/jarsonX/Data_Analysis)
 
 ## Contact
-Find me on [LinkedIn](https://www.linkedin.com/in/jarek-krzysztofik-data-analyst)
+Find me on [LinkedIn](https://www.linkedin.com/in/jarek-krzysztofik-data-analyst)!
