@@ -8,7 +8,7 @@ My strength lies in well-rounded education, combining technical and soft skills.
 
 I am familiar with working in an international environment and have experience in dealing with business clients. I have been involved in analyzing the market environment of companies, financial reports, internal company statistics related to areas such as team and process efficiency, and product quality. Currently, I am working with large datasets from the insurance markets.
 
-Dedicating a lot of time to learning and self-improvement is very important to me. In 2023, I even found myself on the cover of Coursera's Learner Outcomes Report! ([link](https://about.coursera.org/press/wp-content/uploads/2023/05/Learner-Outcomes-Report-2023.pdf)
+Dedicating a lot of time to learning and self-improvement is very important to me. In 2023, I even found myself on the cover of [Coursera's Learner Outcomes Report!](https://about.coursera.org/press/wp-content/uploads/2023/05/Learner-Outcomes-Report-2023.pdf)
 
 Currently I work as a professional data analyst, primarily focusing on technical tasks related to process reengineering.
 
