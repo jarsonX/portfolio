@@ -19,7 +19,7 @@ Currently I work as a professional data analyst, primarily focusing on technical
 - [University of Colorado Boulder, VBA Course Final Projects](https://github.com/jarsonX/vba_uoc)
 - [University of Economics in Katowice, Machine Learning Projects](https://github.com/jarsonX/ml_university_project)
 
-Interested in more? Below you can find more examples of data analysis, data wrangling and automatisation using Python:
+Interested in more? Below you can find examples of data analysis and automatisation using Python:
 - [Various Python projects](https://github.com/jarsonX/Data_Analysis)
 
 ## Contact
