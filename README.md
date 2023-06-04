@@ -22,5 +22,9 @@ Currently I work as a professional data analyst, primarily focusing on technical
 Interested in more? Below you can find examples of data analysis and automatisation using Python:
 - [Various Python projects](https://github.com/jarsonX/Data_Analysis)
 
+## Recommendations
+
+![PwC_PowerBI_projects](https://1drv.ms/i/s!Asu92SuE406khZ93JTw1JKcTcCrhjw?e=jVaJf1)
+
 ## Contact
 Find me on [LinkedIn](https://www.linkedin.com/in/jarek-krzysztofik-data-analyst)!
