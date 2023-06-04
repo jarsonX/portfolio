@@ -24,7 +24,7 @@ Interested in more? Below you can find examples of data analysis and automatisat
 
 ## Recommendations
 
-![PwC_PowerBI_projects](https://github.com/jarsonX/portfolio/blob/main/reco_pwc_powerbi.JPG?raw=true)
+![PwC_PowerBI_projects](https://github.com/jarsonX/portfolio/blob/main/Recommendation_PwC_PowerBI.JPG?raw=true)
 
 ## Contact
 Find me on [LinkedIn](https://www.linkedin.com/in/jarek-krzysztofik-data-analyst)!
