@@ -19,7 +19,7 @@ Currently I work as a professional data analyst, primarily focusing on technical
 - [University of Economics in Katowice, Machine Learning Projects](https://github.com/jarsonX/ml_university_project)
 
 Quick showcase of my Power BI reports:
-- [Power BI reports]()
+- [Power BI reports](https://github.com/jarsonX/portfolio/tree/main/Power_BI_projects_showcase)
 
 Interested in more? Below you can find examples of data analysis and automatisation using Python:
 - [Various Python projects](https://github.com/jarsonX/Data_Analysis)
