@@ -16,6 +16,7 @@ Currently I work as a professional data analyst, primarily focusing on technical
 - [Data visualization in Python](https://github.com/jarsonX/data_vis_in_Python)
 - [IBM Data Analyst Professional Certificate Final Project](https://github.com/jarsonX/ibm_da_cert_final_project)
 - [University of Colorado Boulder, VBA Course Final Projects](https://github.com/jarsonX/vba_uoc)
+- [Excel Personal Finance Tracker](https://github.com/jarsonX/excel_fin_tracker)
 - [University of Economics in Katowice, Machine Learning Projects](https://github.com/jarsonX/ml_university_project)
 
 Quick showcase of my Power BI reports:
