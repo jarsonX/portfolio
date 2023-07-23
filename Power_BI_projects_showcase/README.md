@@ -1,0 +1,2 @@
+## Note
+Most of the Power BI reports that I worked on, were created as part of my professional work, therefore I cannot share them. That’s why in my free time I'm working on a portfolio of reports containing dummy or publicly available data. There are not many of them yet, but I will definitely add more over time.
