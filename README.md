@@ -1,6 +1,6 @@
 # Jarek Krzysztofik, Data Analyst
 
-**Main technologies:** Excel, VBA, Power BI, DAX, Power Query, SQL, Python
+**Main technologies:** Microsoft Power Platform (primarily Power BI, Power Query and DAX), SQL, Python
 
 ## Education and work experience
 My strength lies in well-rounded education, combining technical and soft skills. I graduated high school with an advanced mathematics profile, earned a master's degree in corporate management, a bachelor's degree in philosophy, and further expanded my education with certificates and postgraduate studies in financial accounting, data analysis and visualization, programming, and data science.
